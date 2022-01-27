@@ -64,3 +64,6 @@
   * *hadoop jar so.jar SumOperation.Main inputdir outputdir*
 * Step 4: View MapReduce result
   * *hadoop fs -cat outputdir/part-r-00000*
+
+## Demonstration
+<img src='result.png' alt='result in there'></img>
