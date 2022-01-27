@@ -20,21 +20,17 @@
     <tr>
         <td>Class</td>
         <td>Extends</td>
-        <td>Implements</td>
     </tr>
     <tr>
         <td>Map</td>
-        <td>MapReduceBase</td>
         <td>Mapper</td>
     </tr>
     <tr>
         <td>Reduce</td>
-        <td>MapReduceBase</td>
         <td>Reducer</td>
     </tr>
     <tr>
         <td>Main</td>
-        <td>None</td>
         <td>None</td>
     </tr>
    </table>
